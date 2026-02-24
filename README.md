@@ -10,4 +10,8 @@ El objetivo del programa es facilitar el cálculo del impuesto de manera clara, 
 # captura 
 <img width="412" height="359" alt="Escenario 1" src="https://github.com/user-attachments/assets/951bd34b-5290-4d5d-aea2-a3800f0def6c" />
 
+
+<img width="471" height="206" alt="Escenario 3" src="https://github.com/user-attachments/assets/09702c5b-7fff-4152-9fa7-5062d14e56fa" />
+
+
 <img width="668" height="200" alt="Escenario 2" src="https://github.com/user-attachments/assets/c69d818d-ab5b-4b80-a205-738747ddb046" />
