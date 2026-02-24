@@ -7,4 +7,7 @@ El sistema verifica si el sueldo está dentro del rango exento; si es así, mues
 
 El objetivo del programa es facilitar el cálculo del impuesto de manera clara, rápida y automática.
 
-# capturas
+# captura 
+<img width="412" height="359" alt="Escenario 1" src="https://github.com/user-attachments/assets/951bd34b-5290-4d5d-aea2-a3800f0def6c" />
+
+<img width="668" height="200" alt="Escenario 2" src="https://github.com/user-attachments/assets/c69d818d-ab5b-4b80-a205-738747ddb046" />
